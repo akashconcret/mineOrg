@@ -12,4 +12,7 @@ Public class testClass{
  public void fromLocal(){
      // aa gya dosto ok. akash Pundirv VS CODE ....
  }
+ public void toChild(){
+     // aa gya dosto ok. akash Pundirv VS CODE ....
+ }
 }
