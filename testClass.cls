@@ -9,4 +9,7 @@ Public class testClass{
  public void vcs(){
      // aa gya dosto ok. akash Pundirv VS CODE ....
  }
+ public void fromLocal(){
+     // aa gya dosto ok. akash Pundirv VS CODE ....
+ }
 }
