@@ -15,4 +15,7 @@ Public class testClass{
  public void todyFromOrg(){
      // aa gya dosto ok. akash Pundirv VS CODE ....
  }
+ public void todyFromOrg11(){
+     // aa gya dosto ok. akash Pundirv VS CODE ....
+ }
 }
